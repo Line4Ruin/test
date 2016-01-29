@@ -22,7 +22,7 @@
 <jsp:include page="/menu/top.jsp" flush='false' />
 <!-- ----------------------------------------- -->
  
-<DIV class='title'>깃허브 실습2</DIV>
+<DIV class='title'>깃허브 실습3</DIV>
  
 <DIV class='content'>
 <FORM name='frm' method='POST' action='./.jsp'>
@@ -35,8 +35,8 @@
       </li>
 
       <li class='right'>
-        <button type="submit">���</button>
-        <button type="button" onclick="location.href='./list.jsp'">���</button>
+        <button type="submit"></button>
+        <button type="button" onclick="location.href='./list.jsp'"></button>
       </li>   
     </ul>
   </fieldset>
